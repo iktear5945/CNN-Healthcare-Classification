@@ -90,8 +90,3 @@ Therefore, the model predicted that this customer would not subscribe to the ter
 The project demonstrates how Logistic Regression can be applied to predict term deposit subscription using customer banking data.
 
 The model achieved 90.12% accuracy, but its relatively low recall shows that further improvements may be required to identify more potential subscribers. Techniques such as class balancing, hyperparameter tuning, or other machine learning algorithms could be explored in future work.
-
-## Files
-
-- `Problem_Set_02_Logistic_Regression.ipynb` - Complete Google Colab implementation.
-- `README.md` - Project description, methodology, results, findings, and conclusion.
